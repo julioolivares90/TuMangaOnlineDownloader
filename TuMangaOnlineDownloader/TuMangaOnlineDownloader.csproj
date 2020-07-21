@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Scraper\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="ScrapySharp" Version="3.0.0" />
   </ItemGroup>
 
